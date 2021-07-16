@@ -1,0 +1,138 @@
+[INFO ] 2021-07-05 15:53:05.077 [main] logger - Starting the test
+[INFO ] 2021-07-05 15:53:13.467 [main] logger - Ending the test
+[WARN ] 2021-07-05 15:58:07.035 [main] logger - I warn you
+[ERROR] 2021-07-05 15:58:17.729 [main] logger - its an error
+[FATAL] 2021-07-05 15:58:17.731 [main] logger - its a fatal
+[DEBUG] 2021-07-05 15:58:17.746 [main] logger - its an debug
+[INFO ] 2021-07-05 15:58:23.274 [main] logger - Starting the test
+[INFO ] 2021-07-05 15:58:37.911 [main] logger - Ending the test
+[WARN ] 2021-07-05 15:59:55.183 [main] logger - I warn you
+[ERROR] 2021-07-05 16:00:01.133 [main] logger - its an error
+[FATAL] 2021-07-05 16:00:01.134 [main] logger - its a fatal
+[DEBUG] 2021-07-05 16:00:01.142 [main] logger - its an debug
+[INFO ] 2021-07-05 16:00:07.103 [main] logger - Starting the test
+[INFO ] 2021-07-05 16:00:18.169 [main] logger - Ending the test
+[INFO ] 2021-07-06 15:26:48.116 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:26:48.151 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:26:48.357 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:26:54.805 [main] logger - FAILED
+[INFO ] 2021-07-06 15:27:01.066 [main] logger - FAILED
+[INFO ] 2021-07-06 15:27:06.961 [main] logger - FAILED
+[INFO ] 2021-07-06 15:27:07.822 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:27:08.372 [main] logger - generate report
+[INFO ] 2021-07-06 15:28:27.660 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:28:27.698 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:28:27.860 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:28:38.093 [main] logger - FAILED
+[INFO ] 2021-07-06 15:28:45.863 [main] logger - FAILED
+[INFO ] 2021-07-06 15:28:53.564 [main] logger - FAILED
+[INFO ] 2021-07-06 15:28:55.735 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:28:56.207 [main] logger - generate report
+[INFO ] 2021-07-06 15:31:07.292 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:31:07.321 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:31:07.454 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:31:13.376 [main] logger - FAILED
+[INFO ] 2021-07-06 15:31:19.018 [main] logger - FAILED
+[INFO ] 2021-07-06 15:31:24.482 [main] logger - FAILED
+[INFO ] 2021-07-06 15:31:25.244 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:31:25.748 [main] logger - generate report
+[INFO ] 2021-07-06 15:34:09.248 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:34:09.276 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:34:09.452 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:34:15.788 [main] logger - FAILED
+[INFO ] 2021-07-06 15:34:22.898 [main] logger - FAILED
+[INFO ] 2021-07-06 15:34:33.091 [main] logger - FAILED
+[INFO ] 2021-07-06 15:34:33.758 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:34:34.452 [main] logger - generate report
+[INFO ] 2021-07-06 15:37:51.511 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:37:51.530 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:37:51.708 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:37:59.343 [main] logger - FAILED
+[INFO ] 2021-07-06 15:38:01.611 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:38:02.110 [main] logger - generate report
+[INFO ] 2021-07-06 15:39:16.066 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:39:16.090 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:39:16.243 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:39:22.635 [main] logger - FAILED
+[INFO ] 2021-07-06 15:39:23.199 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:39:23.641 [main] logger - generate report
+[INFO ] 2021-07-06 15:40:21.707 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:40:21.731 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:40:21.879 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:40:28.373 [main] logger - Tests Passed
+[INFO ] 2021-07-06 15:40:29.196 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:40:29.752 [main] logger - generate report
+[INFO ] 2021-07-06 15:55:39.792 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:55:39.813 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:55:39.990 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:56:05.079 [main] logger - Tests Passed
+[INFO ] 2021-07-06 15:56:05.863 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:56:05.867 [main] logger - generate report
+[INFO ] 2021-07-06 15:58:14.209 [main] logger - Execution started..
+[INFO ] 2021-07-06 15:58:14.236 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 15:58:14.412 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 15:58:31.174 [main] logger - FAILED
+[INFO ] 2021-07-06 15:58:31.959 [main] logger - Execution completed..
+[INFO ] 2021-07-06 15:58:31.981 [main] logger - generate report
+[INFO ] 2021-07-06 16:00:14.906 [main] logger - Execution started..
+[INFO ] 2021-07-06 16:00:14.924 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 16:00:15.088 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 16:00:32.870 [main] logger - Tests Passed
+[INFO ] 2021-07-06 16:00:33.779 [main] logger - Execution completed..
+[INFO ] 2021-07-06 16:00:33.782 [main] logger - generate report
+[INFO ] 2021-07-06 16:02:32.489 [main] logger - Execution started..
+[INFO ] 2021-07-06 16:02:32.515 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 16:02:32.680 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 16:02:46.785 [main] logger - FAILED
+[INFO ] 2021-07-06 16:02:48.690 [main] logger - Execution completed..
+[INFO ] 2021-07-06 16:02:48.693 [main] logger - generate report
+[INFO ] 2021-07-06 16:04:55.438 [main] logger - Execution started..
+[INFO ] 2021-07-06 16:04:55.460 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 16:04:55.645 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 16:05:11.895 [main] logger - Tests Passed
+[INFO ] 2021-07-06 16:05:12.782 [main] logger - Execution completed..
+[INFO ] 2021-07-06 16:05:12.797 [main] logger - generate report
+[INFO ] 2021-07-06 16:10:27.723 [main] logger - Execution started..
+[INFO ] 2021-07-06 16:10:27.754 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 16:10:27.918 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 16:10:47.004 [main] logger - Tests Passed
+[INFO ] 2021-07-06 16:10:47.619 [main] logger - Execution completed..
+[INFO ] 2021-07-06 16:10:47.622 [main] logger - generate report
+[INFO ] 2021-07-06 16:11:50.070 [main] logger - Execution started..
+[INFO ] 2021-07-06 16:11:50.104 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 16:11:50.256 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 16:12:09.904 [main] logger - Tests Passed
+[INFO ] 2021-07-06 16:12:10.507 [main] logger - Execution completed..
+[INFO ] 2021-07-06 16:12:10.511 [main] logger - generate report
+[INFO ] 2021-07-06 19:48:46.138 [main] logger - Execution started..
+[INFO ] 2021-07-06 19:48:46.165 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 19:48:46.361 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 19:48:52.059 [main] logger - FAILED
+[INFO ] 2021-07-06 19:48:52.561 [main] logger - Execution completed..
+[INFO ] 2021-07-06 19:48:53.025 [main] logger - generate report
+[INFO ] 2021-07-06 19:49:41.963 [main] logger - Execution started..
+[INFO ] 2021-07-06 19:49:41.981 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 19:49:42.119 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 19:50:04.766 [main] logger - Tests Passed
+[INFO ] 2021-07-06 19:50:05.270 [main] logger - Execution completed..
+[INFO ] 2021-07-06 19:50:05.274 [main] logger - generate report
+[INFO ] 2021-07-06 19:50:47.160 [main] logger - Execution started..
+[INFO ] 2021-07-06 19:50:47.180 [main] logger - Extent Report location initialized . . .
+[INFO ] 2021-07-06 19:50:47.322 [main] logger - System Info. set in Extent Report
+[INFO ] 2021-07-06 19:51:07.683 [main] logger - Tests Passed
+[INFO ] 2021-07-06 19:52:54.821 [main] logger - Tests Passed
+[INFO ] 2021-07-06 19:53:00.992 [main] logger - SKIP
+[INFO ] 2021-07-06 19:53:01.056 [main] logger - Execution completed..
+[INFO ] 2021-07-06 19:53:01.059 [main] logger - generate report
+[INFO ] 2021-07-07 12:32:03.750 [main] logger - Execution started
+[INFO ] 2021-07-07 13:04:46.075 [main] logger - Execution started
+[INFO ] 2021-07-07 22:44:30.516 [main] logger - Execution started
+[INFO ] 2021-07-07 22:45:44.010 [main] logger - Execution started
+[INFO ] 2021-07-07 23:23:15.856 [main] logger - Execution started
+[INFO ] 2021-07-08 19:48:13.053 [main] logger - Execution started
+[INFO ] 2021-07-09 11:30:37.888 [main] logger - Execution started
+[INFO ] 2021-07-09 11:35:09.484 [main] logger - Execution started
+[INFO ] 2021-07-09 11:39:06.880 [main] logger - Execution started
+[INFO ] 2021-07-09 11:42:19.434 [main] logger - Execution started
+[INFO ] 2021-07-09 11:45:27.810 [main] logger - Execution started
+[INFO ] 2021-07-09 11:47:37.576 [main] logger - Execution started
